@@ -1,0 +1,44 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+.theme {
+    color: #2673AD;
+    background-color: #F3C8EE;
+}
+.logo {
+    float: left;
+    margin-left: 10px;
+    margin-right: 25%;
+    margin-top: none;
+    height: 70px;
+    width: 110px;
+}
+.titre {
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    float: left;
+}
+.horizontale {
+    color: white;
+    background-color: #2673AD;
+    height: 3px;
+    width: 95%;
+    border: none;
+}
+.acteurs {
+    margin-top: 100px;
+    margin-left: 80px;
+    font-size: 50px;
+}
+.div_categ {
+    font-size: 30px;
+}
+.cate1 {
+    margin-left: 30%;
+    float: left;
+}
+.cate2 {
+    margin-right: 30%;
+    float: right;
+}

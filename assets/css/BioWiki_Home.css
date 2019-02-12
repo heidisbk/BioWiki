@@ -1,0 +1,84 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: #2673AD;
+    background-color: #F3C8EE;
+}
+.logo {
+    float: left;
+    margin-left: 10px;
+    margin-right: 20%;
+    margin-top: 50px;
+}
+.titre {
+    font-size: 100px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+    float: left;
+}
+.horizontale {
+    color: white;
+    background-color: #2673AD;
+    height: 3px;
+    width: 95%;
+    border: none;
+}
+.div_phrase {
+    margin-top: 50px;
+}
+.verticale {
+    color: white;
+    background-color: #2673AD;
+    width: 50px;
+    height: 20px;
+    float: left;
+    margin-left: 25%;
+    margin-right: 10px;
+    border: none;
+}
+.phrase {
+    padding-top: 8px;
+}
+.div_bio {
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-bottom: 50px;
+    width: 700px;
+    border: 2px solid #2673AD;
+    height: auto;
+    background-color: #B181C1;
+}
+.image_bio {
+    height: 260px;
+    width: 211px;
+    margin-right: 20px;
+    float: left;
+    padding: 10px;
+}
+.titre_bio {
+    float: left;
+    margin-right: 100px;
+    font-size: 24px;
+}
+.texte_bio {
+    padding-top: 80px;
+    padding-left: 220px;
+    padding-right: 10px;
+    height: 140px;
+}
+.category {
+    margin-top: 150px;
+    margin-left: 80px;
+    font-size: 50px;
+}
+.div_categ {
+    font-size: 30px;
+}
+.categ1 {
+    margin-left: 30%;
+    float: left;
+}
+.categ2 {
+    margin-right: 30%;
+    float: right;
+}
